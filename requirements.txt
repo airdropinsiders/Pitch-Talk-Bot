@@ -1,1 +1,2 @@
 colorama
+smart_airdrop_claimer
